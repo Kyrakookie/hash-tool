@@ -13,7 +13,7 @@ A professional web-based application for calculating and comparing cryptographic
 - **Session History**: Keep track of all hashed files during your session
 - **Click-to-Copy**: Click any hash value to copy to clipboard
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
